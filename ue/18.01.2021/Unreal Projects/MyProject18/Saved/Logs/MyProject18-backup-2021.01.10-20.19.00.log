@@ -1,0 +1,1572 @@
+﻿Log file open, 01/10/21 19:41:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject18
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.104329
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.10-18.41.07:997][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.10-18.41.07:997][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.10-18.41.07:997][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Config/Windows/Engine.ini]
+[2021.01.10-18.41.07:997][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.10-18.41.07:997][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2021.01.10-18.41.07:997][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Config/Windows/Engine.ini]
+[2021.01.10-18.41.07:997][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Config/Windows/Engine.ini]
+[2021.01.10-18.41.07:997][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Config/Windows/Engine.ini]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.10-18.41.07:998][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Config/Windows/Engine.ini]
+[2021.01.10-18.41.07:998][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Config/Windows/Engine.ini]
+[2021.01.10-18.41.08:001][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.10-18.41.08:001][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.10-18.41.08:002][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.10-18.41.08:003][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.10-18.41.08:003][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.10-18.41.08:003][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.10-18.41.08:008][  0]LogHAL: Display: Platform has ~ 8 GB [8494747648 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.10-18.41.08:008][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.10-18.41.08:008][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-18.41.08:008][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.10-18.41.08:008][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.10-18.41.08:008][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-18.41.08:008][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.10-18.41.08:008][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-18.41.08:008][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.10-18.41.08:008][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.10-18.41.08:008][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.10-18.41.08:008][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.10-18.41.08:008][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.10-18.41.08:008][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.10-18.41.08:008][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.10-18.41.08:008][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.10-18.41.08:008][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.10-18.41.08:008][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.10-18.41.08:008][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.10-18.41.08:008][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.10-18.41.08:008][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.10-18.41.08:008][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.10-18.41.08:008][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.10-18.41.08:008][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.10-18.41.08:008][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.10-18.41.08:008][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.10-18.41.08:008][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-18.41.08:008][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.10-18.41.08:009][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.10-18.41.08:010][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.10-18.41.08:010][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.10-18.41.08:010][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.10-18.41.08:010][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.10-18.41.08:010][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.10-18.41.08:010][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.10-18.41.08:010][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.10-18.41.08:010][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.10-18.41.08:010][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.10-18.41.08:010][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.10-18.41.08:010][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Config/Windows/Scalability.ini]
+[2021.01.10-18.41.08:010][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.10-18.41.08:010][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.10-18.41.08:010][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.10-18.41.08:010][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.10-18.41.08:010][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.10-18.41.08:010][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Config/Windows/Engine.ini]
+[2021.01.10-18.41.08:010][  0]LogInit: Computer: DESKTOP-0H60OBJ
+[2021.01.10-18.41.08:010][  0]LogInit: User: PunchMarta
+[2021.01.10-18.41.08:010][  0]LogInit: CPU Page size=4096, Cores=2
+[2021.01.10-18.41.08:010][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.10-18.41.08:011][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.01.10-18.41.08:011][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.10-18.41.08:011][  0]LogMemory: Process Physical Memory: 100.66 MB used, 100.66 MB peak
+[2021.01.10-18.41.08:011][  0]LogMemory: Process Virtual Memory: 87.44 MB used, 87.44 MB peak
+[2021.01.10-18.41.08:011][  0]LogMemory: Physical Memory: 6819.69 MB used,  1281.53 MB free, 8101.22 MB total
+[2021.01.10-18.41.08:011][  0]LogMemory: Virtual Memory: 4641.52 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2021.01.10-18.41.08:014][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.10-18.41.08:036][  0]LogInit: Using OS detected language (pl-PL).
+[2021.01.10-18.41.08:036][  0]LogInit: Using OS detected locale (pl-PL).
+[2021.01.10-18.41.08:036][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2021.01.10-18.41.08:037][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2021.01.10-18.41.08:037][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2021.01.10-18.41.08:037][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2021.01.10-18.41.08:037][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2021.01.10-18.41.08:037][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2021.01.10-18.41.08:037][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2021.01.10-18.41.08:038][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2021.01.10-18.41.08:038][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.10-18.41.08:083][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.10-18.41.08:083][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.10-18.41.08:354][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.10-18.41.08:354][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.10-18.41.08:425][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2021.01.10-18.41.08:425][  0]LogD3D11RHI:       128/0/4050 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.01.10-18.41.08:427][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.10-18.41.08:427][  0]LogD3D11RHI:       0/0/4050 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.10-18.41.08:427][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.10-18.41.08:433][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.10-18.41.08:433][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.10-18.41.08:433][  0]LogWindows: EnumDisplayDevices:
+[2021.01.10-18.41.08:433][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2021.01.10-18.41.08:434][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2021.01.10-18.41.08:434][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2021.01.10-18.41.08:434][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2021.01.10-18.41.08:434][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2021.01.10-18.41.08:434][  0]LogD3D11RHI:   Driver Version: 27.20.100.8190 (internal:27.20.100.8190, unified:27.20.100.8190)
+[2021.01.10-18.41.08:434][  0]LogD3D11RHI:      Driver Date: 5-19-2020
+[2021.01.10-18.41.08:434][  0]LogRHI: Texture pool is 1507 MB (70% of 2153 MB)
+[2021.01.10-18.41.08:507][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2021.01.10-18.41.08:507][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.10-18.41.08:514][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2021.01.10-18.41.08:913][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2021.01.10-18.41.08:924][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2021.01.10-18.41.08:933][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2021.01.10-18.41.08:944][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2021.01.10-18.41.08:981][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2021.01.10-18.41.08:990][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2021.01.10-18.41.09:000][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.10-18.41.09:010][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2021.01.10-18.41.09:015][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2021.01.10-18.41.09:055][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2021.01.10-18.41.09:055][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2021.01.10-18.41.09:055][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2021.01.10-18.41.09:055][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2021.01.10-18.41.09:055][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2021.01.10-18.41.09:055][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2021.01.10-18.41.09:055][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2021.01.10-18.41.09:055][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2021.01.10-18.41.09:055][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2021.01.10-18.41.09:055][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.10-18.41.09:055][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2021.01.10-18.41.09:055][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2021.01.10-18.41.09:055][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2021.01.10-18.41.09:055][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2021.01.10-18.41.09:055][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.10-18.41.09:055][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2021.01.10-18.41.09:055][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2021.01.10-18.41.09:055][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2021.01.10-18.41.09:057][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2021.01.10-18.41.09:080][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2021.01.10-18.41.09:080][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2021.01.10-18.41.09:095][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2021.01.10-18.41.09:095][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2021.01.10-18.41.09:102][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2021.01.10-18.41.09:109][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.10-18.41.09:116][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2021.01.10-18.41.09:130][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2021.01.10-18.41.09:155][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2021.01.10-18.41.09:155][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2021.01.10-18.41.09:155][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.10-18.41.09:165][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.10-18.41.09:224][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Intermediate/Shaders/WorkingDirectory/1732/).
+[2021.01.10-18.41.09:224][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Punch Marta/AppData/Local/Temp/UnrealShaderWorkingDir/B5393A0F47ED5F6A0ACECA8336A0868A/'.
+[2021.01.10-18.41.09:227][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.10-18.41.09:227][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.10-18.41.09:227][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.10-18.41.09:886][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.10-18.41.09:938][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/Punch Marta/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2021.01.10-18.41.09:938][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Punch Marta/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2021.01.10-18.41.09:938][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.10-18.41.09:938][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.10-18.41.09:938][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.10-18.41.09:938][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.10-18.41.09:951][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.10-18.41.09:951][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.10-18.41.09:951][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.10-18.41.09:953][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Punch Marta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.10-18.41.09:953][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.10-18.41.09:953][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.10-18.41.09:975][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.01.10-18.41.09:978][  0]LogSlate: Using FreeType 2.6.0
+[2021.01.10-18.41.09:978][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.10-18.41.10:035][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2021.01.10-18.41.10:401][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.10-18.41.10:603][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.10-18.41.10:603][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.10-18.41.10:603][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.10-18.41.10:603][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.10-18.41.10:603][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.10-18.41.10:615][  0]LogNetVersion: MyProject18 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2768018698)
+[2021.01.10-18.41.11:169][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.082978 seconds
+[2021.01.10-18.41.11:175][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2021.01.10-18.41.11:175][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2021.01.10-18.41.11:175][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.10-18.41.12:145][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.10-18.41.12:148][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.10-18.41.12:205][  0]SourceControl: Source control is disabled
+[2021.01.10-18.41.12:205][  0]SourceControl: Source control is disabled
+[2021.01.10-18.41.12:206][  0]SourceControl: Source control is disabled
+[2021.01.10-18.41.12:207][  0]SourceControl: Source control is disabled
+[2021.01.10-18.41.12:301][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.10-18.41.12:450][  0]LogOcInput: OculusInput pre-init called
+[2021.01.10-18.41.12:458][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.10-18.41.12:458][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.10-18.41.12:545][  0]LogEngine: Initializing Engine...
+[2021.01.10-18.41.12:546][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.10-18.41.12:547][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.10-18.41.12:829][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.10-18.41.12:861][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.10-18.41.12:891][  0]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.10-18.41.13:587][  0]LogInit: FAudioDevice initialized.
+[2021.01.10-18.41.13:587][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.10-18.41.13:669][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/Punch Marta/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2021.01.10-18.41.13:677][  0]LogInit: Texture streaming: Enabled
+[2021.01.10-18.41.13:698][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.10-18.41.13:698][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.10-18.41.13:700][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.10-18.41.13:776][  0]LogInit: Transaction tracking system initialized
+[2021.01.10-18.41.13:813][  0]BlueprintLog: New page: Editor Load
+[2021.01.10-18.41.13:905][  0]LocalizationService: Localization service is disabled
+[2021.01.10-18.41.14:214][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/' took 0.00s
+[2021.01.10-18.41.14:214][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.10-18.41.14:215][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.10-18.41.14:403][  0]SourceControl: Source control is disabled
+[2021.01.10-18.41.14:403][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.10-18.41.14:403][  0]LightingResults: New page: Lighting Build
+[2021.01.10-18.41.14:406][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-18.41.14:406][  0]MapCheck: New page: Map Check
+[2021.01.10-18.41.14:406][  0]LightingResults: New page: Lighting Build
+[2021.01.10-18.41.14:429][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.01.10-18.41.14:505][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.01.10-18.41.14:512][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.10-18.41.14:543][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.01.10-18.41.14:543][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.10-18.41.14:544][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,203ms to complete.
+[2021.01.10-18.41.14:544][  0]LogFileHelpers: Loading map 'Template_Default' took 0.141
+[2021.01.10-18.41.14:758][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.41.14:768][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.41.14:775][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.41.14:782][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.10-18.41.14:802][  0]LogCollectionManager: Loaded 0 collections in 0.002236 seconds
+[2021.01.10-18.41.14:829][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Collections/' took 0.00s
+[2021.01.10-18.41.14:829][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/Developers/PunchMarta/Collections/' took 0.00s
+[2021.01.10-18.41.14:829][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/Collections/' took 0.00s
+[2021.01.10-18.41.14:829][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2021.01.10-18.41.14:843][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2863 classes and 680 folders.
+[2021.01.10-18.41.14:874][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.10-18.41.15:403][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.10-18.41.15:424][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2021.01.10-18.41.15:581][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.10-18.41.15:584][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.10-18.41.15:603][  0]LogSlate: Took 0.009966 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.10-18.41.15:730][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2021.01.10-18.41.15:880][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.01.10-18.41.15:880][  0]LogLoad: (Engine Initialization) Total time: 9.24 seconds
+[2021.01.10-18.41.15:880][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.10-18.41.15:953][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.10-18.41.15:992][  0]LogSlate: Took 0.010654 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.10-18.41.16:050][  1]LogAssetRegistry: Asset discovery search completed in 6.0165 seconds
+[2021.01.10-18.41.16:054][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2021.01.10-18.41.16:054][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000081 seconds (updated 0 objects)
+[2021.01.10-18.41.29:144][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-18.41.29:396][412]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.10-18.41.38:955][412]LogAIModule: Creating AISystem for world 1
+[2021.01.10-18.41.38:977][412]LogAssetEditorManager: Opening Asset editor for World /Game/1.1
+[2021.01.10-18.41.38:999][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.01.10-18.41.39:007][412]Cmd: MAP LOAD FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.10-18.41.39:007][412]LightingResults: New page: Lighting Build
+[2021.01.10-18.41.39:007][412]LoadErrors: New page: Loading map: 1.umap
+[2021.01.10-18.41.39:013][412]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-18.41.39:016][412]MapCheck: New page: Map Check
+[2021.01.10-18.41.39:016][412]LightingResults: New page: Lighting Build
+[2021.01.10-18.41.39:053][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.01.10-18.41.39:132][412]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.10-18.41.39:157][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.01.10-18.41.39:191][412]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.10-18.41.39:193][412]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,115ms to complete.
+[2021.01.10-18.41.39:193][412]LogFileHelpers: Loading map '1' took 0.193
+[2021.01.10-18.42.15:990][943]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={1DB60FDC-433A-44BD-560A-ACAB008F0B7D}
+[2021.01.10-18.42.20:843][958]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2021.01.10-18.42.44:512][990]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Punch Marta/Desktop/actual/export/desk1.fbx)
+[2021.01.10-18.42.44:697][990]LogFbx: Loading FBX Scene from ../../../../../../Users/Punch Marta/Desktop/actual/export/desk1.fbx
+[2021.01.10-18.42.45:297][990]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.10-18.42.47:007][990]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.10-18.42.49:941][990]LogStaticMesh: Building static mesh desk1...
+[2021.01.10-18.42.52:760][990]LogStaticMesh: Built static mesh [2.81s] /Game/desk1.desk1
+[2021.01.10-18.42.53:688][990]LogStaticMesh: Warning: desk1 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.01.10-18.42.53:688][990]LogStaticMesh: Warning: desk1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.10-18.42.54:435][990]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.10-18.42.54:435][990]FBXImport: Warning: desk1 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2021.01.10-18.42.54:435][990]FBXImport: Warning: desk1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.10-18.43.05:640][ 70]LogSlate: Window 'Message Log' being destroyed
+[2021.01.10-18.43.05:644][ 70]LogSlate: Window 'Message Log' being destroyed
+[2021.01.10-18.43.16:822][354]LogActorFactory: Actor Factory created desk1
+[2021.01.10-18.43.21:146][456]LogActorFactory: Actor Factory created desk1
+[2021.01.10-18.44.10:935][127]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-18.44.12:125][194]Cmd: EDIT PASTE
+[2021.01.10-18.44.15:629][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-18.44.44:051][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (desk2)
+[2021.01.10-18.44.45:081][928]Cmd: DELETE
+[2021.01.10-18.44.45:081][928]Cmd: ACTOR DELETE
+[2021.01.10-18.44.45:109][928]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-18.44.45:155][928]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.01.10-18.44.45:156][928]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2021.01.10-18.44.59:561][259]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-18.44.59:578][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.10-18.44.59:603][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.01.10-18.45.00:008][259]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/13F57E22B477ACB92E60D5986C06E3DF3.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap'
+[2021.01.10-18.45.00:055][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1_BuiltData" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset" SILENT=true
+[2021.01.10-18.45.00:090][259]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/1_BuiltData0954E6A04F4A8A15DA219F9BEEBD95DF.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset'
+[2021.01.10-18.45.09:769][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-18.45.12:392][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.01.10-18.45.13:446][470]LogSlate: Window 'Save Content' being destroyed
+[2021.01.10-18.45.13:465][470]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-18.45.13:532][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/desk1" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/desk1.uasset" SILENT=true
+[2021.01.10-18.45.15:667][470]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/desk1737E9E3543A3719A3A3EE6B6FDB79C4E.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/desk1.uasset'
+[2021.01.10-18.48.54:211][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-18.49.00:749][252]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-18.49.00:762][252]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 090.fbx)
+[2021.01.10-18.49.00:781][252]LogFbx: Loading FBX Scene from ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 090.fbx
+[2021.01.10-18.49.00:807][252]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.10-18.49.02:681][252]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.10-18.49.02:817][252]LogStaticMesh: Building static mesh wieszak_090...
+[2021.01.10-18.49.02:903][252]LogStaticMesh: Built static mesh [0.09s] /Game/wieszak_090.wieszak_090
+[2021.01.10-18.49.02:916][252]LogStaticMesh: Warning: wieszak_090 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.10-18.49.02:916][252]LogStaticMesh: Warning: wieszak_090 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.10-18.49.02:941][252]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.10-18.49.02:941][252]FBXImport: Warning: wieszak_090 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.10-18.49.02:941][252]FBXImport: Warning: wieszak_090 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.10-18.49.02:972][252]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 091.fbx)
+[2021.01.10-18.49.02:988][252]LogFbx: Loading FBX Scene from ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 091.fbx
+[2021.01.10-18.49.03:008][252]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.10-18.49.03:097][252]LogStaticMesh: Building static mesh wieszak_091...
+[2021.01.10-18.49.03:181][252]LogStaticMesh: Built static mesh [0.09s] /Game/wieszak_091.wieszak_091
+[2021.01.10-18.49.03:196][252]LogStaticMesh: Warning: wieszak_091 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.10-18.49.03:196][252]LogStaticMesh: Warning: wieszak_091 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.10-18.49.03:219][252]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.10-18.49.03:219][252]FBXImport: Warning: wieszak_091 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.10-18.49.03:219][252]FBXImport: Warning: wieszak_091 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.10-18.49.03:238][252]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 092.fbx)
+[2021.01.10-18.49.03:253][252]LogFbx: Loading FBX Scene from ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 092.fbx
+[2021.01.10-18.49.03:273][252]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.10-18.49.03:357][252]LogStaticMesh: Building static mesh wieszak_092...
+[2021.01.10-18.49.03:432][252]LogStaticMesh: Built static mesh [0.08s] /Game/wieszak_092.wieszak_092
+[2021.01.10-18.49.03:442][252]LogStaticMesh: Warning: wieszak_092 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.10-18.49.03:442][252]LogStaticMesh: Warning: wieszak_092 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.10-18.49.03:478][252]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.10-18.49.03:478][252]FBXImport: Warning: wieszak_092 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.10-18.49.03:478][252]FBXImport: Warning: wieszak_092 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.10-18.49.07:016][320]LogSlate: Window 'Message Log' being destroyed
+[2021.01.10-18.49.07:026][320]LogSlate: Window 'Message Log' being destroyed
+[2021.01.10-18.49.35:784][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-18.49.52:933][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-18.49.53:245][121]LogActorFactory: Actor Factory created wieszak_090
+[2021.01.10-18.49.54:703][157]LogActorFactory: Actor Factory created wieszak_090
+[2021.01.10-18.49.56:228][194]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-18.49.57:649][278]Cmd: EDIT PASTE
+[2021.01.10-18.50.17:238][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-18.50.41:273][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-18.51.16:440][143]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={8ED4EF04-4434-4E9F-65A3-469FD50C810F}
+[2021.01.10-18.51.49:978][920]Cmd: EDIT COPY
+[2021.01.10-18.52.42:149][110]Cmd: DELETE
+[2021.01.10-18.52.42:149][110]Cmd: ACTOR DELETE
+[2021.01.10-18.52.42:157][110]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-18.52.42:230][110]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2021.01.10-18.52.42:231][110]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2021.01.10-18.52.55:282][389]LogActorFactory: Actor Factory created wieszak_091
+[2021.01.10-18.52.56:291][411]LogActorFactory: Actor Factory created wieszak_091
+[2021.01.10-18.52.58:968][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-18.53.34:932][288]Cmd: DELETE
+[2021.01.10-18.53.34:932][288]Cmd: ACTOR DELETE
+[2021.01.10-18.53.34:936][288]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-18.53.34:984][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.01.10-18.53.34:985][288]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2021.01.10-18.53.36:628][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wieszak 092)
+[2021.01.10-18.53.39:431][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-18.53.39:705][385]LogActorFactory: Actor Factory created wieszak_092
+[2021.01.10-18.53.40:870][406]LogActorFactory: Actor Factory created wieszak_092
+[2021.01.10-18.53.42:574][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-18.54.22:810][344]Cmd: DELETE
+[2021.01.10-18.54.22:811][344]Cmd: ACTOR DELETE
+[2021.01.10-18.54.22:815][344]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-18.54.22:868][344]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2021.01.10-18.54.22:869][344]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2021.01.10-18.54.45:356][927]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-18.54.45:400][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.10-18.54.45:451][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.01.10-18.54.45:738][927]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/18952D28F457BC2C6F882B4A4119C3E12.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap'
+[2021.01.10-18.54.45:791][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1_BuiltData" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset" SILENT=true
+[2021.01.10-18.54.45:834][927]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/1_BuiltDataA0AC812944DE42B32A5E7CA47033E26C.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset'
+[2021.01.10-18.54.48:513][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.10-18.55.57:592][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-18.56.10:599][321]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-18.56.10:609][321]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Punch Marta/Desktop/actual/export/T_Shirt_male034.fbx)
+[2021.01.10-18.56.10:625][321]LogFbx: Loading FBX Scene from ../../../../../../Users/Punch Marta/Desktop/actual/export/T_Shirt_male034.fbx
+[2021.01.10-18.56.10:652][321]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.10-18.56.12:288][321]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.10-18.56.12:433][321]LogStaticMesh: Building static mesh T_Shirt_male034...
+[2021.01.10-18.56.12:528][321]LogStaticMesh: Built static mesh [0.09s] /Game/T_Shirt_male034.T_Shirt_male034
+[2021.01.10-18.56.12:548][321]LogStaticMesh: Warning: T_Shirt_male034 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.10-18.56.12:548][321]LogStaticMesh: Warning: T_Shirt_male034 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.10-18.56.12:578][321]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.10-18.56.12:578][321]FBXImport: Warning: T_Shirt_male034 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.10-18.56.12:578][321]FBXImport: Warning: T_Shirt_male034 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.10-18.56.12:619][321]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Punch Marta/Desktop/actual/export/T_Shirt_male035.fbx)
+[2021.01.10-18.56.12:634][321]LogFbx: Loading FBX Scene from ../../../../../../Users/Punch Marta/Desktop/actual/export/T_Shirt_male035.fbx
+[2021.01.10-18.56.12:659][321]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.10-18.56.12:797][321]LogStaticMesh: Building static mesh T_Shirt_male035...
+[2021.01.10-18.56.12:895][321]LogStaticMesh: Built static mesh [0.10s] /Game/T_Shirt_male035.T_Shirt_male035
+[2021.01.10-18.56.12:945][321]LogStaticMesh: Warning: T_Shirt_male035 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.10-18.56.12:945][321]LogStaticMesh: Warning: T_Shirt_male035 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.10-18.56.12:975][321]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.10-18.56.12:975][321]FBXImport: Warning: T_Shirt_male035 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.10-18.56.12:975][321]FBXImport: Warning: T_Shirt_male035 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.10-18.56.13:002][321]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Punch Marta/Desktop/actual/export/T_Shirt_male036.fbx)
+[2021.01.10-18.56.13:016][321]LogFbx: Loading FBX Scene from ../../../../../../Users/Punch Marta/Desktop/actual/export/T_Shirt_male036.fbx
+[2021.01.10-18.56.13:039][321]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.10-18.56.13:141][321]LogStaticMesh: Building static mesh T_Shirt_male036...
+[2021.01.10-18.56.13:229][321]LogStaticMesh: Built static mesh [0.09s] /Game/T_Shirt_male036.T_Shirt_male036
+[2021.01.10-18.56.13:250][321]LogStaticMesh: Warning: T_Shirt_male036 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.10-18.56.13:251][321]LogStaticMesh: Warning: T_Shirt_male036 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.10-18.56.13:280][321]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.10-18.56.13:280][321]FBXImport: Warning: T_Shirt_male036 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.10-18.56.13:280][321]FBXImport: Warning: T_Shirt_male036 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.10-18.56.18:360][402]LogSlate: Window 'Message Log' being destroyed
+[2021.01.10-18.56.18:384][402]LogSlate: Window 'Message Log' being destroyed
+[2021.01.10-18.56.51:153][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-18.56.52:375][ 27]LogActorFactory: Actor Factory created T_Shirt_male034
+[2021.01.10-18.56.56:309][113]LogActorFactory: Actor Factory created T_Shirt_male034
+[2021.01.10-18.57.08:726][304]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-18.57.43:788][370]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-18.57.43:982][381]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-18.57.45:030][444]Cmd: EDIT PASTE
+[2021.01.10-18.57.52:877][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-18.59.05:155][216]Cmd: DELETE
+[2021.01.10-18.59.05:155][216]Cmd: ACTOR DELETE
+[2021.01.10-18.59.05:160][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-18.59.05:233][216]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2021.01.10-18.59.05:233][216]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2021.01.10-18.59.26:436][671]LogActorFactory: Actor Factory created T_Shirt_male035
+[2021.01.10-18.59.27:153][687]LogActorFactory: Actor Factory created T_Shirt_male035
+[2021.01.10-18.59.53:894][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.00.24:728][975]Cmd: TRANSACTION UNDO
+[2021.01.10-19.00.24:728][975]LogEditorTransaction: Undo Snap Selection to 2D Layer
+[2021.01.10-19.00.38:484][316]Cmd: DELETE
+[2021.01.10-19.00.38:484][316]Cmd: ACTOR DELETE
+[2021.01.10-19.00.38:489][316]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.00.38:563][316]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2021.01.10-19.00.38:564][316]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2021.01.10-19.01.33:321][565]LogActorFactory: Actor Factory created T_Shirt_male036
+[2021.01.10-19.01.34:012][580]LogActorFactory: Actor Factory created T_Shirt_male036
+[2021.01.10-19.01.35:709][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.02.04:889][270]Cmd: DELETE
+[2021.01.10-19.02.04:890][270]Cmd: ACTOR DELETE
+[2021.01.10-19.02.04:894][270]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.02.04:959][270]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.01.10-19.02.04:960][270]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2021.01.10-19.02.21:827][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (T_Shirt_male034)
+[2021.01.10-19.02.21:960][720]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.01.10-19.02.23:014][746]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.01.10-19.02.23:120][746]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (T_Shirt_male034)
+[2021.01.10-19.02.24:591][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.02.24:857][782]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/T_Shirt_male034.T_Shirt_male034
+[2021.01.10-19.02.35:331][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.02.35:440][946]LogSlate: Window 'T_Shirt_male034' being destroyed
+[2021.01.10-19.02.35:453][946]LogSlate: Window 'T_Shirt_male034' being destroyed
+[2021.01.10-19.02.35:455][946]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-19.02.36:909][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (walls)
+[2021.01.10-19.02.39:517][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-19.02.39:551][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.10-19.02.39:591][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.01.10-19.02.39:755][ 20]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/1D3EAEB0E4290DCDF7900CA9A46979F82.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap'
+[2021.01.10-19.02.39:789][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1_BuiltData" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset" SILENT=true
+[2021.01.10-19.02.39:829][ 20]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/1_BuiltData7CFC51334EF939BB397447A39DC9C293.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset'
+[2021.01.10-19.03.23:636][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.04.03:323][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.04.12:003][170]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-19.04.12:012][170]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 093.fbx)
+[2021.01.10-19.04.12:025][170]LogFbx: Loading FBX Scene from ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 093.fbx
+[2021.01.10-19.04.12:049][170]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.10-19.04.13:424][170]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.10-19.04.13:540][170]LogStaticMesh: Building static mesh wieszak_093...
+[2021.01.10-19.04.13:624][170]LogStaticMesh: Built static mesh [0.08s] /Game/wieszak_093.wieszak_093
+[2021.01.10-19.04.13:635][170]LogStaticMesh: Warning: wieszak_093 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.10-19.04.13:636][170]LogStaticMesh: Warning: wieszak_093 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.10-19.04.13:655][170]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.10-19.04.13:655][170]FBXImport: Warning: wieszak_093 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.10-19.04.13:655][170]FBXImport: Warning: wieszak_093 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.10-19.04.13:685][170]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 094.fbx)
+[2021.01.10-19.04.13:700][170]LogFbx: Loading FBX Scene from ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 094.fbx
+[2021.01.10-19.04.13:723][170]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.10-19.04.13:803][170]LogStaticMesh: Building static mesh wieszak_094...
+[2021.01.10-19.04.13:879][170]LogStaticMesh: Built static mesh [0.08s] /Game/wieszak_094.wieszak_094
+[2021.01.10-19.04.13:893][170]LogStaticMesh: Warning: wieszak_094 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.10-19.04.13:893][170]LogStaticMesh: Warning: wieszak_094 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.10-19.04.13:919][170]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.10-19.04.13:919][170]FBXImport: Warning: wieszak_094 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.10-19.04.13:919][170]FBXImport: Warning: wieszak_094 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.10-19.04.13:936][170]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 095.fbx)
+[2021.01.10-19.04.13:949][170]LogFbx: Loading FBX Scene from ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 095.fbx
+[2021.01.10-19.04.13:968][170]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.10-19.04.14:047][170]LogStaticMesh: Building static mesh wieszak_095...
+[2021.01.10-19.04.14:123][170]LogStaticMesh: Built static mesh [0.08s] /Game/wieszak_095.wieszak_095
+[2021.01.10-19.04.14:136][170]LogStaticMesh: Warning: wieszak_095 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.10-19.04.14:136][170]LogStaticMesh: Warning: wieszak_095 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.10-19.04.14:159][170]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.10-19.04.14:159][170]FBXImport: Warning: wieszak_095 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.10-19.04.14:159][170]FBXImport: Warning: wieszak_095 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.10-19.04.18:329][233]LogSlate: Window 'Message Log' being destroyed
+[2021.01.10-19.04.18:350][233]LogSlate: Window 'Message Log' being destroyed
+[2021.01.10-19.04.19:542][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.04.19:886][252]LogActorFactory: Actor Factory created wieszak_093
+[2021.01.10-19.04.19:887][252]LogActorFactory: Actor Factory created wieszak_094
+[2021.01.10-19.04.19:887][252]LogActorFactory: Actor Factory created wieszak_095
+[2021.01.10-19.04.21:834][300]LogActorFactory: Actor Factory created wieszak_093
+[2021.01.10-19.04.21:834][300]LogActorFactory: Actor Factory created wieszak_094
+[2021.01.10-19.04.21:835][300]LogActorFactory: Actor Factory created wieszak_095
+[2021.01.10-19.04.22:889][324]LogActorFactory: Actor Factory created wieszak_093
+[2021.01.10-19.04.22:906][324]LogActorFactory: Actor Factory created wieszak_094
+[2021.01.10-19.04.22:922][324]LogActorFactory: Actor Factory created wieszak_095
+[2021.01.10-19.04.24:426][351]Cmd: TRANSACTION UNDO
+[2021.01.10-19.04.24:426][351]LogEditorTransaction: Undo Create Actors
+[2021.01.10-19.04.25:861][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.04.28:458][435]LogActorFactory: Actor Factory created wieszak_093
+[2021.01.10-19.04.29:506][454]LogActorFactory: Actor Factory created wieszak_093
+[2021.01.10-19.04.30:543][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.04.30:784][473]LogActorFactory: Actor Factory created wieszak_094
+[2021.01.10-19.04.31:756][490]LogActorFactory: Actor Factory created wieszak_094
+[2021.01.10-19.04.32:703][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.04.33:032][514]LogActorFactory: Actor Factory created wieszak_095
+[2021.01.10-19.04.33:643][529]LogActorFactory: Actor Factory created wieszak_095
+[2021.01.10-19.04.40:769][609]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-19.04.42:489][707]Cmd: EDIT PASTE
+[2021.01.10-19.04.53:948][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.04.57:977][120]LogSlate: Took 0.026734 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.10-19.05.49:420][347]Cmd: DELETE
+[2021.01.10-19.05.49:420][347]Cmd: ACTOR DELETE
+[2021.01.10-19.05.49:424][347]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.05.49:487][347]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2021.01.10-19.05.49:488][347]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2021.01.10-19.06.39:448][603]Cmd: DELETE
+[2021.01.10-19.06.39:448][603]Cmd: ACTOR DELETE
+[2021.01.10-19.06.39:453][603]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.06.39:508][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.01.10-19.06.39:509][603]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2021.01.10-19.07.41:857][189]Cmd: DELETE
+[2021.01.10-19.07.41:857][189]Cmd: ACTOR DELETE
+[2021.01.10-19.07.41:861][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.07.41:907][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.01.10-19.07.41:907][189]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2021.01.10-19.07.47:148][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wieszak_093)
+[2021.01.10-19.08.03:656][681]Cmd: TRANSACTION UNDO
+[2021.01.10-19.08.03:656][681]LogEditorTransaction: Undo Move Actors
+[2021.01.10-19.08.15:226][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (walls)
+[2021.01.10-19.08.21:833][166]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-19.08.21:852][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.10-19.08.21:900][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.01.10-19.08.22:142][166]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/1B9A834884C2DBB04251B12A4F42B0AF5.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap'
+[2021.01.10-19.08.22:190][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1_BuiltData" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset" SILENT=true
+[2021.01.10-19.08.22:230][166]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/1_BuiltData3BD52EED47DF6A0AC88CDD8BF29A19F2.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset'
+[2021.01.10-19.10.07:397][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.10.17:950][685]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-19.10.17:967][685]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Punch Marta/Desktop/actual/export/Plane119.fbx)
+[2021.01.10-19.10.17:986][685]LogFbx: Loading FBX Scene from ../../../../../../Users/Punch Marta/Desktop/actual/export/Plane119.fbx
+[2021.01.10-19.10.18:025][685]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.10-19.10.44:059][685]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.10-19.10.44:105][685]LogLinker: Failed to load '/Game/95_canvas_PBR_texture_seamless': Can't find file.
+[2021.01.10-19.10.44:106][685]LogLinker: Failed to load '/Game/95_canvas_PBR_texture_seamless': Can't find file.
+[2021.01.10-19.10.44:173][685]LogTexture: Display: Building textures: 95_canvas_PBR_texture_seamless (AutoDXT, 1024X1024)
+[2021.01.10-19.10.45:547][685]LogMaterial: Display: Missing cached shader map for material grey-canvas_material, compiling. 
+[2021.01.10-19.10.45:768][685]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.01.10-19.10.45:768][685]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.01.10-19.10.45:768][685]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.01.10-19.10.45:772][685]LogStaticMesh: Building static mesh Plane119...
+[2021.01.10-19.10.46:095][685]LogStaticMesh: Built static mesh [0.32s] /Game/Plane119.Plane119
+[2021.01.10-19.10.46:191][685]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.10-19.10.46:267][685]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Punch Marta/Desktop/actual/export/Plane120.fbx)
+[2021.01.10-19.10.46:295][685]LogFbx: Loading FBX Scene from ../../../../../../Users/Punch Marta/Desktop/actual/export/Plane120.fbx
+[2021.01.10-19.10.46:348][685]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.10-19.10.46:551][685]LogStaticMesh: Building static mesh Plane120...
+[2021.01.10-19.10.46:867][685]LogStaticMesh: Built static mesh [0.32s] /Game/Plane120.Plane120
+[2021.01.10-19.10.46:965][685]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.10-19.10.47:024][685]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Punch Marta/Desktop/actual/export/Plane121.fbx)
+[2021.01.10-19.10.47:049][685]LogFbx: Loading FBX Scene from ../../../../../../Users/Punch Marta/Desktop/actual/export/Plane121.fbx
+[2021.01.10-19.10.47:102][685]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.10-19.10.47:288][685]LogStaticMesh: Building static mesh Plane121...
+[2021.01.10-19.10.47:590][685]LogStaticMesh: Built static mesh [0.30s] /Game/Plane121.Plane121
+[2021.01.10-19.10.47:688][685]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.10-19.10.51:323][722]LogSlate: Window 'Message Log' being destroyed
+[2021.01.10-19.10.51:348][722]LogSlate: Window 'Message Log' being destroyed
+[2021.01.10-19.12.11:775][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (walls)
+[2021.01.10-19.12.13:863][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.12.15:672][  8]LogActorFactory: Actor Factory created Plane119
+[2021.01.10-19.12.16:385][ 21]LogActorFactory: Actor Factory created Plane119
+[2021.01.10-19.12.17:698][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.12.17:844][ 37]LogActorFactory: Actor Factory created Plane120
+[2021.01.10-19.12.18:497][ 44]LogActorFactory: Actor Factory created Plane120
+[2021.01.10-19.12.19:578][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.12.19:811][ 59]LogActorFactory: Actor Factory created Plane121
+[2021.01.10-19.12.20:510][ 68]LogActorFactory: Actor Factory created Plane121
+[2021.01.10-19.12.54:605][372]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-19.12.55:862][446]Cmd: EDIT PASTE
+[2021.01.10-19.13.02:147][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.13.58:047][885]Cmd: DELETE
+[2021.01.10-19.13.58:047][885]Cmd: ACTOR DELETE
+[2021.01.10-19.13.58:052][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.13.58:131][885]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2021.01.10-19.13.58:131][885]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2021.01.10-19.14.42:737][964]Cmd: DELETE
+[2021.01.10-19.14.42:737][964]Cmd: ACTOR DELETE
+[2021.01.10-19.14.42:744][964]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.14.42:808][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.01.10-19.14.42:809][964]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2021.01.10-19.15.18:562][804]Cmd: DELETE
+[2021.01.10-19.15.18:562][804]Cmd: ACTOR DELETE
+[2021.01.10-19.15.18:567][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.15.18:622][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.01.10-19.15.18:623][804]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2021.01.10-19.15.23:295][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.10-19.15.23:335][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.01.10-19.15.23:527][918]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/17F94B3D1404956851703E8A1B4D98CEC.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap'
+[2021.01.10-19.15.23:567][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1_BuiltData" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset" SILENT=true
+[2021.01.10-19.15.23:603][918]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/1_BuiltDataD5D800DA4581947036A7CC875D9A5AC4.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset'
+[2021.01.10-19.15.42:765][392]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-19.15.42:783][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.10-19.15.42:830][392]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2021.01.10-19.15.43:052][392]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/1AD2273314DAD1141F91D2D99678916E1.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap'
+[2021.01.10-19.15.43:094][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1_BuiltData" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset" SILENT=true
+[2021.01.10-19.15.43:125][392]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/1_BuiltData65A4133D4B0E743B06EBD8B2F4FC12D9.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset'
+[2021.01.10-19.16.49:991][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.16.51:870][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.01.10-19.16.52:802][648]LogSlate: Window 'Save Content' being destroyed
+[2021.01.10-19.16.52:830][648]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-19.16.53:015][648]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/95_canvas_PBR_texture_seamlessDD15A5764A3CE2551179CEB1FD999707.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/95_canvas_PBR_texture_seamless.uasset'
+[2021.01.10-19.16.53:144][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/grey-canvas_material" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/grey-canvas_material.uasset" SILENT=true
+[2021.01.10-19.16.53:170][648]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/grey-canvas_material078F2929489D3A1ACCF7EDA1457F7933.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/grey-canvas_material.uasset'
+[2021.01.10-19.16.53:227][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Plane119" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/Plane119.uasset" SILENT=true
+[2021.01.10-19.16.53:366][648]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Plane119821EDA564BD2B9825A93279A77BCD642.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/Plane119.uasset'
+[2021.01.10-19.16.53:427][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Plane120" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/Plane120.uasset" SILENT=true
+[2021.01.10-19.16.53:566][648]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Plane1202BFD4A0D4E163CB9F56D71B939F81230.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/Plane120.uasset'
+[2021.01.10-19.16.53:628][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Plane121" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/Plane121.uasset" SILENT=true
+[2021.01.10-19.16.53:767][648]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/Plane121F00B7BB4450293ED7C27F882F759632F.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/Plane121.uasset'
+[2021.01.10-19.16.53:827][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/T_Shirt_male034" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/T_Shirt_male034.uasset" SILENT=true
+[2021.01.10-19.16.53:934][648]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/T_Shirt_male034894CFABE44DC19C300D178A2615EA928.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/T_Shirt_male034.uasset'
+[2021.01.10-19.16.53:994][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/T_Shirt_male035" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/T_Shirt_male035.uasset" SILENT=true
+[2021.01.10-19.16.54:102][648]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/T_Shirt_male03538A3350B4B4A5EBAB93336987D59EA77.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/T_Shirt_male035.uasset'
+[2021.01.10-19.16.54:161][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/T_Shirt_male036" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/T_Shirt_male036.uasset" SILENT=true
+[2021.01.10-19.16.54:265][648]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/T_Shirt_male036FAD9F114471C51B0E36650AF50879434.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/T_Shirt_male036.uasset'
+[2021.01.10-19.16.54:311][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/wieszak_090" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_090.uasset" SILENT=true
+[2021.01.10-19.16.54:403][648]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/wieszak_090CDD3195B4F830758693436B9F97A1D18.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_090.uasset'
+[2021.01.10-19.16.54:462][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/wieszak_091" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_091.uasset" SILENT=true
+[2021.01.10-19.16.54:555][648]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/wieszak_0916E769C6F4769EF7117618EBD969CDBC5.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_091.uasset'
+[2021.01.10-19.16.54:612][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/wieszak_092" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_092.uasset" SILENT=true
+[2021.01.10-19.16.54:698][648]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/wieszak_0923EE958034EF783985D49A0B16B354647.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_092.uasset'
+[2021.01.10-19.16.54:743][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/wieszak_093" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_093.uasset" SILENT=true
+[2021.01.10-19.16.54:835][648]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/wieszak_0934F8857BD4441531B60FB058D07889D8F.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_093.uasset'
+[2021.01.10-19.16.54:895][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/wieszak_094" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_094.uasset" SILENT=true
+[2021.01.10-19.16.54:982][648]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/wieszak_094A79E25B24B38772CBC78FDB8D7C859DF.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_094.uasset'
+[2021.01.10-19.16.55:029][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/wieszak_095" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_095.uasset" SILENT=true
+[2021.01.10-19.16.55:117][648]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/wieszak_0955A007A964493ED503D3726A3ADCC8490.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_095.uasset'
+[2021.01.10-19.16.56:093][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (walls)
+[2021.01.10-19.16.57:686][680]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-19.16.57:730][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.10-19.16.57:750][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.01.10-19.16.57:871][680]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/14A8703F14EFB8766DE6B66B0939DD3AE.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap'
+[2021.01.10-19.16.57:902][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1_BuiltData" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset" SILENT=true
+[2021.01.10-19.16.57:925][680]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/1_BuiltData9E1A531641D13BBE35E1228B7FF069F1.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset'
+[2021.01.10-19.16.59:888][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.17.12:816][725]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-19.17.12:826][725]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 096.fbx)
+[2021.01.10-19.17.12:837][725]LogFbx: Loading FBX Scene from ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 096.fbx
+[2021.01.10-19.17.12:859][725]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.10-19.17.14:357][725]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.10-19.17.14:480][725]LogStaticMesh: Building static mesh wieszak_096...
+[2021.01.10-19.17.14:557][725]LogStaticMesh: Built static mesh [0.08s] /Game/wieszak_096.wieszak_096
+[2021.01.10-19.17.14:569][725]LogStaticMesh: Warning: wieszak_096 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.10-19.17.14:570][725]LogStaticMesh: Warning: wieszak_096 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.10-19.17.14:592][725]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.10-19.17.14:593][725]FBXImport: Warning: wieszak_096 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.10-19.17.14:593][725]FBXImport: Warning: wieszak_096 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.10-19.17.14:627][725]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 097.fbx)
+[2021.01.10-19.17.14:641][725]LogFbx: Loading FBX Scene from ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 097.fbx
+[2021.01.10-19.17.14:661][725]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.10-19.17.14:743][725]LogStaticMesh: Building static mesh wieszak_097...
+[2021.01.10-19.17.14:823][725]LogStaticMesh: Built static mesh [0.08s] /Game/wieszak_097.wieszak_097
+[2021.01.10-19.17.14:840][725]LogStaticMesh: Warning: wieszak_097 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.10-19.17.14:840][725]LogStaticMesh: Warning: wieszak_097 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.10-19.17.14:858][725]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.10-19.17.14:859][725]FBXImport: Warning: wieszak_097 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.10-19.17.14:859][725]FBXImport: Warning: wieszak_097 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.10-19.17.14:876][725]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 098.fbx)
+[2021.01.10-19.17.14:890][725]LogFbx: Loading FBX Scene from ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 098.fbx
+[2021.01.10-19.17.14:910][725]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.10-19.17.14:992][725]LogStaticMesh: Building static mesh wieszak_098...
+[2021.01.10-19.17.15:068][725]LogStaticMesh: Built static mesh [0.08s] /Game/wieszak_098.wieszak_098
+[2021.01.10-19.17.15:083][725]LogStaticMesh: Warning: wieszak_098 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.10-19.17.15:083][725]LogStaticMesh: Warning: wieszak_098 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.10-19.17.15:108][725]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.10-19.17.15:108][725]FBXImport: Warning: wieszak_098 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.10-19.17.15:108][725]FBXImport: Warning: wieszak_098 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.10-19.17.27:636][960]LogSlate: Window 'Message Log' being destroyed
+[2021.01.10-19.17.27:660][960]LogSlate: Window 'Message Log' being destroyed
+[2021.01.10-19.17.29:921][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.17.41:049][131]LogActorFactory: Actor Factory created wieszak_096
+[2021.01.10-19.17.41:928][149]LogActorFactory: Actor Factory created wieszak_096
+[2021.01.10-19.17.43:071][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.17.43:360][167]LogActorFactory: Actor Factory created wieszak_097
+[2021.01.10-19.17.44:514][192]LogActorFactory: Actor Factory created wieszak_097
+[2021.01.10-19.17.45:089][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.17.45:461][212]LogActorFactory: Actor Factory created wieszak_098
+[2021.01.10-19.17.47:475][257]LogActorFactory: Actor Factory created wieszak_098
+[2021.01.10-19.17.51:430][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.18.01:500][456]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-19.18.02:626][523]Cmd: EDIT PASTE
+[2021.01.10-19.18.13:420][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.19.15:137][153]Cmd: DELETE
+[2021.01.10-19.19.15:137][153]Cmd: ACTOR DELETE
+[2021.01.10-19.19.15:143][153]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.19.15:197][153]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.01.10-19.19.15:197][153]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2021.01.10-19.19.17:821][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.10-19.19.17:861][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.01.10-19.19.18:058][215]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/18BE7237B42C2843D33EAF79C8F84F620.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap'
+[2021.01.10-19.19.18:099][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1_BuiltData" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset" SILENT=true
+[2021.01.10-19.19.18:126][215]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/1_BuiltData7E2CDF6D43F9E3296BB867BDC31948E6.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset'
+[2021.01.10-19.19.34:870][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (walls)
+[2021.01.10-19.19.36:139][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (walls)
+[2021.01.10-19.19.38:773][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.19.42:805][797]EditorErrors: New page: Actor attachment
+[2021.01.10-19.19.46:577][886]Cmd: TRANSACTION UNDO
+[2021.01.10-19.19.46:577][886]LogEditorTransaction: Undo Attach actors
+[2021.01.10-19.21.09:186][732]Cmd: DELETE
+[2021.01.10-19.21.09:186][732]Cmd: ACTOR DELETE
+[2021.01.10-19.21.09:191][732]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.21.09:248][732]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2021.01.10-19.21.09:248][732]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2021.01.10-19.21.32:732][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (walls)
+[2021.01.10-19.21.37:108][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.21.38:258][368]Cmd: DELETE
+[2021.01.10-19.21.38:258][368]Cmd: ACTOR DELETE
+[2021.01.10-19.21.38:261][368]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.21.38:315][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.01.10-19.21.38:316][368]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2021.01.10-19.21.40:496][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.10-19.21.40:536][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.01.10-19.21.40:750][419]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/18479BAF64567A183F7428F9C2EB135DD.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap'
+[2021.01.10-19.21.40:791][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1_BuiltData" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset" SILENT=true
+[2021.01.10-19.21.40:823][419]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/1_BuiltDataCC88D80943FAF279ED8611B0AFAC54EA.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset'
+[2021.01.10-19.22.38:493][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.22.45:327][656]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-19.22.45:338][656]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 099.fbx)
+[2021.01.10-19.22.45:349][656]LogFbx: Loading FBX Scene from ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 099.fbx
+[2021.01.10-19.22.45:376][656]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.10-19.22.47:217][656]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.10-19.22.47:339][656]LogStaticMesh: Building static mesh wieszak_099...
+[2021.01.10-19.22.47:425][656]LogStaticMesh: Built static mesh [0.09s] /Game/wieszak_099.wieszak_099
+[2021.01.10-19.22.47:435][656]LogStaticMesh: Warning: wieszak_099 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.10-19.22.47:435][656]LogStaticMesh: Warning: wieszak_099 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.10-19.22.47:456][656]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.10-19.22.47:456][656]FBXImport: Warning: wieszak_099 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.10-19.22.47:456][656]FBXImport: Warning: wieszak_099 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.10-19.22.47:486][656]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 100.fbx)
+[2021.01.10-19.22.47:500][656]LogFbx: Loading FBX Scene from ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 100.fbx
+[2021.01.10-19.22.47:525][656]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.10-19.22.47:615][656]LogStaticMesh: Building static mesh wieszak_100...
+[2021.01.10-19.22.47:696][656]LogStaticMesh: Built static mesh [0.08s] /Game/wieszak_100.wieszak_100
+[2021.01.10-19.22.47:708][656]LogStaticMesh: Warning: wieszak_100 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.10-19.22.47:708][656]LogStaticMesh: Warning: wieszak_100 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.10-19.22.47:731][656]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.10-19.22.47:731][656]FBXImport: Warning: wieszak_100 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.10-19.22.47:731][656]FBXImport: Warning: wieszak_100 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.10-19.22.47:748][656]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 101.fbx)
+[2021.01.10-19.22.47:760][656]LogFbx: Loading FBX Scene from ../../../../../../Users/Punch Marta/Desktop/actual/export/wieszak 101.fbx
+[2021.01.10-19.22.47:780][656]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.10-19.22.47:856][656]LogStaticMesh: Building static mesh wieszak_101...
+[2021.01.10-19.22.47:930][656]LogStaticMesh: Built static mesh [0.07s] /Game/wieszak_101.wieszak_101
+[2021.01.10-19.22.47:940][656]LogStaticMesh: Warning: wieszak_101 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.01.10-19.22.47:940][656]LogStaticMesh: Warning: wieszak_101 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.01.10-19.22.47:960][656]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.01.10-19.22.47:960][656]FBXImport: Warning: wieszak_101 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.01.10-19.22.47:960][656]FBXImport: Warning: wieszak_101 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.01.10-19.22.54:812][783]LogSlate: Window 'Message Log' being destroyed
+[2021.01.10-19.22.54:828][783]LogSlate: Window 'Message Log' being destroyed
+[2021.01.10-19.23.14:003][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.23.15:506][ 40]LogActorFactory: Actor Factory created wieszak_099
+[2021.01.10-19.23.16:557][ 63]LogActorFactory: Actor Factory created wieszak_099
+[2021.01.10-19.23.18:168][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.23.18:495][ 93]LogActorFactory: Actor Factory created wieszak_100
+[2021.01.10-19.23.19:444][113]LogActorFactory: Actor Factory created wieszak_100
+[2021.01.10-19.23.20:090][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.23.20:224][122]LogActorFactory: Actor Factory created wieszak_101
+[2021.01.10-19.23.22:015][162]LogActorFactory: Actor Factory created wieszak_101
+[2021.01.10-19.23.24:056][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (walls)
+[2021.01.10-19.23.30:899][349]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-19.23.30:929][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.10-19.23.30:967][349]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.01.10-19.23.31:164][349]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/1C6BB8CF04673E9CEB7A87D8D4BA02EDA.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap'
+[2021.01.10-19.23.31:202][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1_BuiltData" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset" SILENT=true
+[2021.01.10-19.23.31:228][349]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/1_BuiltData1D8978F34FF4A89E826AC98AC8D6D77D.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset'
+[2021.01.10-19.24.09:155][929]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-19.24.10:374][  0]Cmd: EDIT PASTE
+[2021.01.10-19.24.15:065][106]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.10-19.24.28:244][565]Cmd: SELECT NONE
+[2021.01.10-19.24.35:307][836]Cmd: EDIT PASTE
+[2021.01.10-19.26.57:779][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wieszak 100)
+[2021.01.10-19.26.58:500][993]Cmd: DELETE
+[2021.01.10-19.26.58:500][993]Cmd: ACTOR DELETE
+[2021.01.10-19.26.58:505][993]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.26.58:569][993]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.01.10-19.26.58:570][993]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2021.01.10-19.27.14:669][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szafkal1)
+[2021.01.10-19.27.15:640][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (szafkal1)
+[2021.01.10-19.27.16:557][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wieszak_101)
+[2021.01.10-19.27.18:153][443]Cmd: DELETE
+[2021.01.10-19.27.18:153][443]Cmd: ACTOR DELETE
+[2021.01.10-19.27.18:158][443]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.27.18:215][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.01.10-19.27.18:217][443]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2021.01.10-19.27.18:969][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wieszak_099)
+[2021.01.10-19.27.19:496][472]Cmd: DELETE
+[2021.01.10-19.27.19:496][472]Cmd: ACTOR DELETE
+[2021.01.10-19.27.19:500][472]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.27.19:552][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.01.10-19.27.19:553][472]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2021.01.10-19.27.21:796][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.27.23:461][555]LogActorFactory: Actor Factory created wieszak_099
+[2021.01.10-19.27.24:249][573]LogActorFactory: Actor Factory created wieszak_099
+[2021.01.10-19.27.25:264][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wieszak_100)
+[2021.01.10-19.27.27:812][654]Cmd: DELETE
+[2021.01.10-19.27.27:812][654]Cmd: ACTOR DELETE
+[2021.01.10-19.27.27:816][654]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.27.27:874][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.01.10-19.27.27:875][654]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2021.01.10-19.27.30:399][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.27.30:602][693]LogActorFactory: Actor Factory created wieszak_100
+[2021.01.10-19.27.32:351][730]LogActorFactory: Actor Factory created wieszak_100
+[2021.01.10-19.27.33:371][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.27.33:625][755]LogActorFactory: Actor Factory created wieszak_101
+[2021.01.10-19.27.34:738][780]LogActorFactory: Actor Factory created wieszak_101
+[2021.01.10-19.27.41:791][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.27.49:073][ 96]Cmd: DELETE
+[2021.01.10-19.27.49:073][ 96]Cmd: ACTOR DELETE
+[2021.01.10-19.27.49:077][ 96]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.27.49:140][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.01.10-19.27.49:141][ 96]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2021.01.10-19.27.53:508][201]Cmd: DELETE
+[2021.01.10-19.27.53:508][201]Cmd: ACTOR DELETE
+[2021.01.10-19.27.53:517][201]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.27.53:571][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.01.10-19.27.53:571][201]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2021.01.10-19.28.25:303][685]Cmd: EDIT PASTE
+[2021.01.10-19.28.31:411][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wieszak_101)
+[2021.01.10-19.28.34:836][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.30.05:838][920]Cmd: DELETE
+[2021.01.10-19.30.05:838][920]Cmd: ACTOR DELETE
+[2021.01.10-19.30.05:845][920]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.30.05:905][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.01.10-19.30.05:905][920]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2021.01.10-19.31.01:161][154]Cmd: DELETE
+[2021.01.10-19.31.01:161][154]Cmd: ACTOR DELETE
+[2021.01.10-19.31.01:166][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.31.01:226][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.01.10-19.31.01:226][154]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2021.01.10-19.31.30:509][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.32.16:685][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (walls)
+[2021.01.10-19.32.34:885][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wieszak_099)
+[2021.01.10-19.33.06:821][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (walls)
+[2021.01.10-19.33.16:644][297]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.01.10-19.33.16:656][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.10-19.33.16:699][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.01.10-19.33.16:894][297]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/1BBBA62CF43070D1AE265B1AE69C289A0.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap'
+[2021.01.10-19.33.16:934][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1_BuiltData" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset" SILENT=true
+[2021.01.10-19.33.16:970][297]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/1_BuiltData11733A004EA6E8976A162E9FC8B9CCE2.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset'
+[2021.01.10-19.33.17:970][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (walls)
+[2021.01.10-19.33.21:701][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.10-19.33.23:464][453]Cmd: DELETE
+[2021.01.10-19.33.23:464][453]Cmd: ACTOR DELETE
+[2021.01.10-19.33.23:468][453]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.33.23:522][453]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2021.01.10-19.33.23:522][453]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2021.01.10-19.33.25:993][516]Cmd: DELETE
+[2021.01.10-19.33.25:993][516]Cmd: ACTOR DELETE
+[2021.01.10-19.33.26:000][516]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.33.26:043][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.01.10-19.33.26:044][516]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2021.01.10-19.33.27:847][565]Cmd: DELETE
+[2021.01.10-19.33.27:847][565]Cmd: ACTOR DELETE
+[2021.01.10-19.33.27:850][565]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.33.27:893][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.01.10-19.33.27:893][565]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2021.01.10-19.33.29:529][609]Cmd: DELETE
+[2021.01.10-19.33.29:529][609]Cmd: ACTOR DELETE
+[2021.01.10-19.33.29:532][609]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.10-19.33.29:565][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.01.10-19.33.29:566][609]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2021.01.10-19.33.37:957][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.10-19.33.37:997][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.01.10-19.33.38:187][821]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/104F15EFB4B8AFEAB65AF5D9A2FA0220F.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap'
+[2021.01.10-19.33.38:225][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1_BuiltData" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset" SILENT=true
+[2021.01.10-19.33.38:253][821]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/1_BuiltData5E7460734BE91D98130544AFA49E3AF7.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset'
+[2021.01.10-19.34.10:358][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.01.10-19.34.12:315][360]LogSlate: Window 'Save Content' being destroyed
+[2021.01.10-19.34.12:382][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/wieszak_096" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_096.uasset" SILENT=true
+[2021.01.10-19.34.12:475][360]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/wieszak_096E93EA13D4CDC39D343F08E995FED1C68.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_096.uasset'
+[2021.01.10-19.34.12:570][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/wieszak_097" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_097.uasset" SILENT=true
+[2021.01.10-19.34.12:657][360]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/wieszak_097079CA6594FED995CB564D89D8E4D5E38.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_097.uasset'
+[2021.01.10-19.34.12:737][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/wieszak_098" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_098.uasset" SILENT=true
+[2021.01.10-19.34.12:823][360]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/wieszak_098BFA921B64DFDC2615FE9B088BC5C13E3.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_098.uasset'
+[2021.01.10-19.34.12:887][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/wieszak_099" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_099.uasset" SILENT=true
+[2021.01.10-19.34.12:975][360]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/wieszak_0999CB624F44580C6CB2480BE97A29BBD04.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_099.uasset'
+[2021.01.10-19.34.13:037][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/wieszak_100" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_100.uasset" SILENT=true
+[2021.01.10-19.34.13:143][360]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/wieszak_100231CAA42466090AD3811258C1F60CE7E.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_100.uasset'
+[2021.01.10-19.34.13:204][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/wieszak_101" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_101.uasset" SILENT=true
+[2021.01.10-19.34.13:290][360]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/wieszak_101CB9619B446CEA329D0F7768918420EB6.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/wieszak_101.uasset'
+[2021.01.10-20.18.45:116][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.01.10-20.18.47:344][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.01.10-20.18.48:324][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.01.10-20.18.48:747][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.01.10-20.18.49:133][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.01.10-20.18.49:666][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.01.10-20.18.52:185][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.10-20.18.52:215][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.01.10-20.18.52:365][954]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/15CDB574146DDE2A19E087981D408507D.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1.umap'
+[2021.01.10-20.18.52:400][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1_BuiltData" FILE="../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset" SILENT=true
+[2021.01.10-20.18.52:429][954]LogSavePackage: Moving '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Saved/1_BuiltData82F92B2D46FB1449FD624FA6C05B05E5.tmp' to '../../../../../../Users/Punch Marta/Documents/Unreal Projects/MyProject18/Content/1_BuiltData.uasset'
+[2021.01.10-20.18.53:653][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.01.10-20.18.53:758][985]LogSlate: Window 'MyProject18 - Unreal Editor' being destroyed
+[2021.01.10-20.18.53:762][985]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.10-20.18.54:226][986]Cmd: QUIT_EDITOR
+[2021.01.10-20.18.54:397][986]LogExit: Preparing to exit.
+[2021.01.10-20.18.55:157][986]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-20.18.55:157][986]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-20.18.55:255][986]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.01.10-20.18.55:365][986]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.01.10-20.18.55:365][986]LogExit: Editor shut down
+[2021.01.10-20.18.55:369][986]LogExit: Transaction tracking system shut down
+[2021.01.10-20.18.57:014][986]LogExit: Object subsystem successfully closed.
+[2021.01.10-20.18.57:106][986]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.01.10-20.18.57:413][986]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (674)
+[2021.01.10-20.18.57:414][986]LogModuleManager: Shutting down and abandoning module MeshBuilder (672)
+[2021.01.10-20.18.57:414][986]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (670)
+[2021.01.10-20.18.57:414][986]LogModuleManager: Shutting down and abandoning module SceneOutliner (668)
+[2021.01.10-20.18.57:414][986]LogModuleManager: Shutting down and abandoning module AddContentDialog (666)
+[2021.01.10-20.18.57:451][986]LogModuleManager: Shutting down and abandoning module WidgetCarousel (665)
+[2021.01.10-20.18.57:451][986]LogModuleManager: Shutting down and abandoning module EditorWidgets (662)
+[2021.01.10-20.18.57:452][986]LogModuleManager: Shutting down and abandoning module CollectionManager (660)
+[2021.01.10-20.18.57:455][986]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (658)
+[2021.01.10-20.18.57:455][986]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2021.01.10-20.18.57:457][986]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2021.01.10-20.18.57:457][986]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2021.01.10-20.18.57:458][986]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2021.01.10-20.18.57:464][986]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2021.01.10-20.18.57:465][986]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2021.01.10-20.18.57:465][986]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2021.01.10-20.18.57:465][986]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2021.01.10-20.18.57:466][986]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2021.01.10-20.18.57:466][986]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2021.01.10-20.18.57:466][986]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2021.01.10-20.18.57:468][986]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2021.01.10-20.18.57:468][986]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2021.01.10-20.18.57:470][986]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2021.01.10-20.18.57:470][986]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2021.01.10-20.18.57:471][986]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2021.01.10-20.18.57:473][986]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2021.01.10-20.18.57:481][986]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2021.01.10-20.18.57:481][986]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2021.01.10-20.18.57:484][986]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2021.01.10-20.18.57:487][986]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2021.01.10-20.18.57:487][986]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2021.01.10-20.18.57:487][986]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2021.01.10-20.18.57:487][986]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2021.01.10-20.18.57:487][986]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2021.01.10-20.18.57:488][986]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2021.01.10-20.18.57:490][986]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2021.01.10-20.18.57:495][986]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2021.01.10-20.18.57:495][986]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2021.01.10-20.18.57:495][986]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2021.01.10-20.18.57:495][986]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2021.01.10-20.18.57:495][986]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2021.01.10-20.18.57:495][986]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2021.01.10-20.18.57:495][986]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2021.01.10-20.18.57:495][986]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2021.01.10-20.18.57:495][986]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2021.01.10-20.18.57:495][986]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2021.01.10-20.18.57:496][986]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2021.01.10-20.18.57:497][986]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2021.01.10-20.18.57:497][986]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2021.01.10-20.18.57:497][986]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2021.01.10-20.18.57:497][986]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2021.01.10-20.18.57:497][986]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2021.01.10-20.18.57:499][986]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2021.01.10-20.18.57:499][986]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2021.01.10-20.18.57:499][986]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2021.01.10-20.18.57:504][986]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2021.01.10-20.18.57:506][986]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2021.01.10-20.18.57:510][986]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2021.01.10-20.18.57:511][986]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2021.01.10-20.18.57:513][986]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2021.01.10-20.18.57:513][986]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2021.01.10-20.18.57:514][986]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2021.01.10-20.18.57:514][986]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2021.01.10-20.18.57:514][986]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2021.01.10-20.18.59:287][986]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2021.01.10-20.18.59:287][986]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2021.01.10-20.18.59:287][986]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2021.01.10-20.18.59:287][986]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2021.01.10-20.18.59:287][986]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2021.01.10-20.18.59:291][986]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2021.01.10-20.18.59:292][986]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2021.01.10-20.18.59:294][986]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2021.01.10-20.18.59:296][986]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2021.01.10-20.18.59:297][986]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2021.01.10-20.18.59:297][986]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2021.01.10-20.18.59:298][986]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2021.01.10-20.18.59:299][986]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2021.01.10-20.18.59:299][986]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2021.01.10-20.18.59:299][986]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2021.01.10-20.18.59:300][986]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2021.01.10-20.18.59:301][986]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2021.01.10-20.18.59:303][986]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2021.01.10-20.18.59:303][986]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2021.01.10-20.18.59:306][986]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2021.01.10-20.18.59:306][986]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2021.01.10-20.18.59:306][986]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2021.01.10-20.18.59:307][986]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2021.01.10-20.18.59:351][986]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2021.01.10-20.18.59:352][986]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2021.01.10-20.18.59:355][986]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2021.01.10-20.18.59:358][986]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2021.01.10-20.18.59:358][986]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2021.01.10-20.18.59:359][986]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2021.01.10-20.18.59:360][986]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2021.01.10-20.18.59:363][986]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2021.01.10-20.18.59:367][986]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2021.01.10-20.18.59:367][986]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2021.01.10-20.18.59:367][986]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2021.01.10-20.18.59:374][986]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2021.01.10-20.18.59:376][986]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2021.01.10-20.18.59:381][986]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2021.01.10-20.18.59:384][986]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2021.01.10-20.18.59:384][986]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2021.01.10-20.18.59:384][986]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2021.01.10-20.18.59:385][986]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2021.01.10-20.18.59:388][986]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2021.01.10-20.18.59:391][986]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2021.01.10-20.18.59:392][986]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2021.01.10-20.18.59:392][986]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2021.01.10-20.18.59:392][986]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2021.01.10-20.18.59:392][986]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2021.01.10-20.18.59:392][986]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2021.01.10-20.18.59:393][986]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2021.01.10-20.18.59:395][986]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2021.01.10-20.18.59:395][986]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2021.01.10-20.18.59:395][986]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2021.01.10-20.18.59:395][986]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2021.01.10-20.18.59:395][986]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2021.01.10-20.18.59:395][986]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2021.01.10-20.18.59:396][986]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2021.01.10-20.18.59:396][986]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2021.01.10-20.18.59:397][986]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2021.01.10-20.18.59:397][986]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2021.01.10-20.18.59:397][986]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2021.01.10-20.18.59:402][986]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2021.01.10-20.18.59:450][986]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2021.01.10-20.18.59:451][986]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2021.01.10-20.18.59:451][986]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2021.01.10-20.18.59:451][986]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2021.01.10-20.18.59:451][986]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2021.01.10-20.18.59:452][986]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2021.01.10-20.18.59:452][986]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2021.01.10-20.18.59:453][986]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2021.01.10-20.18.59:453][986]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2021.01.10-20.18.59:453][986]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2021.01.10-20.18.59:453][986]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2021.01.10-20.18.59:453][986]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2021.01.10-20.18.59:453][986]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2021.01.10-20.18.59:453][986]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2021.01.10-20.18.59:453][986]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2021.01.10-20.18.59:453][986]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2021.01.10-20.18.59:453][986]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2021.01.10-20.18.59:454][986]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2021.01.10-20.18.59:456][986]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2021.01.10-20.18.59:456][986]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2021.01.10-20.18.59:456][986]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2021.01.10-20.18.59:456][986]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2021.01.10-20.18.59:456][986]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2021.01.10-20.18.59:457][986]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2021.01.10-20.18.59:457][986]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2021.01.10-20.18.59:457][986]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2021.01.10-20.18.59:457][986]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2021.01.10-20.18.59:457][986]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2021.01.10-20.18.59:457][986]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2021.01.10-20.18.59:457][986]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2021.01.10-20.18.59:458][986]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2021.01.10-20.18.59:458][986]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2021.01.10-20.18.59:458][986]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2021.01.10-20.18.59:458][986]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2021.01.10-20.18.59:458][986]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2021.01.10-20.18.59:459][986]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2021.01.10-20.18.59:459][986]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2021.01.10-20.18.59:464][986]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2021.01.10-20.18.59:465][986]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2021.01.10-20.18.59:466][986]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2021.01.10-20.18.59:467][986]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2021.01.10-20.18.59:470][986]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2021.01.10-20.18.59:470][986]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2021.01.10-20.18.59:470][986]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2021.01.10-20.18.59:471][986]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2021.01.10-20.18.59:471][986]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2021.01.10-20.18.59:471][986]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2021.01.10-20.18.59:473][986]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2021.01.10-20.18.59:476][986]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2021.01.10-20.18.59:478][986]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2021.01.10-20.18.59:478][986]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2021.01.10-20.18.59:478][986]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2021.01.10-20.18.59:478][986]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2021.01.10-20.18.59:479][986]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2021.01.10-20.18.59:479][986]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2021.01.10-20.18.59:479][986]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2021.01.10-20.18.59:479][986]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2021.01.10-20.18.59:479][986]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2021.01.10-20.18.59:482][986]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2021.01.10-20.18.59:482][986]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2021.01.10-20.18.59:482][986]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2021.01.10-20.18.59:482][986]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2021.01.10-20.18.59:482][986]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2021.01.10-20.18.59:482][986]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2021.01.10-20.18.59:584][986]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2021.01.10-20.18.59:686][986]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2021.01.10-20.18.59:686][986]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2021.01.10-20.18.59:686][986]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2021.01.10-20.18.59:686][986]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2021.01.10-20.18.59:686][986]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2021.01.10-20.18.59:689][986]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.01.10-20.18.59:689][986]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2021.01.10-20.18.59:689][986]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2021.01.10-20.18.59:689][986]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2021.01.10-20.18.59:690][986]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2021.01.10-20.18.59:690][986]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2021.01.10-20.18.59:690][986]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2021.01.10-20.18.59:691][986]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2021.01.10-20.18.59:693][986]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2021.01.10-20.18.59:698][986]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2021.01.10-20.18.59:700][986]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2021.01.10-20.18.59:702][986]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2021.01.10-20.18.59:702][986]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2021.01.10-20.18.59:703][986]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2021.01.10-20.18.59:707][986]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2021.01.10-20.18.59:708][986]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2021.01.10-20.18.59:708][986]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2021.01.10-20.18.59:708][986]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2021.01.10-20.18.59:708][986]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2021.01.10-20.18.59:717][986]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2021.01.10-20.18.59:717][986]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2021.01.10-20.18.59:717][986]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2021.01.10-20.18.59:718][986]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2021.01.10-20.18.59:718][986]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2021.01.10-20.18.59:720][986]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2021.01.10-20.18.59:720][986]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2021.01.10-20.18.59:720][986]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2021.01.10-20.18.59:720][986]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2021.01.10-20.18.59:721][986]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2021.01.10-20.18.59:722][986]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2021.01.10-20.18.59:722][986]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2021.01.10-20.18.59:725][986]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2021.01.10-20.18.59:726][986]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2021.01.10-20.18.59:728][986]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2021.01.10-20.18.59:732][986]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2021.01.10-20.18.59:733][986]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2021.01.10-20.18.59:736][986]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2021.01.10-20.18.59:742][986]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2021.01.10-20.18.59:742][986]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2021.01.10-20.18.59:747][986]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2021.01.10-20.18.59:747][986]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2021.01.10-20.18.59:747][986]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2021.01.10-20.18.59:754][986]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2021.01.10-20.18.59:754][986]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2021.01.10-20.18.59:754][986]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2021.01.10-20.18.59:754][986]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2021.01.10-20.18.59:754][986]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2021.01.10-20.18.59:754][986]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2021.01.10-20.18.59:754][986]LogModuleManager: Shutting down and abandoning module Core (186)
+[2021.01.10-20.18.59:754][986]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2021.01.10-20.18.59:754][986]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2021.01.10-20.18.59:756][986]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2021.01.10-20.18.59:757][986]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2021.01.10-20.18.59:757][986]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2021.01.10-20.18.59:757][986]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2021.01.10-20.18.59:763][986]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2021.01.10-20.18.59:764][986]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2021.01.10-20.18.59:764][986]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2021.01.10-20.18.59:764][986]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2021.01.10-20.18.59:775][986]LogDerivedDataCache: Shutdown
+[2021.01.10-20.18.59:775][986]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2021.01.10-20.18.59:778][986]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2021.01.10-20.18.59:782][986]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2021.01.10-20.18.59:782][986]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2021.01.10-20.18.59:783][986]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2021.01.10-20.18.59:783][986]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2021.01.10-20.18.59:783][986]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2021.01.10-20.18.59:784][986]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2021.01.10-20.18.59:786][986]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2021.01.10-20.18.59:786][986]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2021.01.10-20.18.59:786][986]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2021.01.10-20.18.59:789][986]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2021.01.10-20.18.59:789][986]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2021.01.10-20.18.59:789][986]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2021.01.10-20.18.59:789][986]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2021.01.10-20.18.59:789][986]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2021.01.10-20.18.59:789][986]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2021.01.10-20.18.59:789][986]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2021.01.10-20.18.59:850][986]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2021.01.10-20.18.59:851][986]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2021.01.10-20.18.59:851][986]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2021.01.10-20.18.59:851][986]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2021.01.10-20.18.59:852][986]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2021.01.10-20.18.59:863][986]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2021.01.10-20.18.59:863][986]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2021.01.10-20.18.59:879][986]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2021.01.10-20.18.59:880][986]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2021.01.10-20.18.59:951][986]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2021.01.10-20.18.59:951][986]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2021.01.10-20.18.59:951][986]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2021.01.10-20.18.59:951][986]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2021.01.10-20.18.59:951][986]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2021.01.10-20.18.59:951][986]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2021.01.10-20.18.59:951][986]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2021.01.10-20.18.59:951][986]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2021.01.10-20.18.59:951][986]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2021.01.10-20.18.59:951][986]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2021.01.10-20.18.59:951][986]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2021.01.10-20.18.59:951][986]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2021.01.10-20.18.59:952][986]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2021.01.10-20.18.59:952][986]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2021.01.10-20.18.59:952][986]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2021.01.10-20.18.59:953][986]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2021.01.10-20.18.59:953][986]LogHMD: Freeing OpenVRDLLHandle.
+[2021.01.10-20.18.59:953][986]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2021.01.10-20.18.59:954][986]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2021.01.10-20.18.59:954][986]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2021.01.10-20.18.59:954][986]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2021.01.10-20.18.59:954][986]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2021.01.10-20.18.59:961][986]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2021.01.10-20.18.59:963][986]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2021.01.10-20.18.59:981][986]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2021.01.10-20.18.59:981][986]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.01.10-20.18.59:981][986]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10831EC4-42B2-E004-7805-E685FAE41712%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=db84f91a49c1c2b99f23d7b59797bc20%7Cf604d406e3bf43bbbb0a8bb66802a529%7Cbd1456da-d9c6-4288-8fbe-d1c3e0fa5657&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2021.01.10-20.18.59:993][986]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2021.01.10-20.19.00:013][986]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2021.01.10-20.19.00:017][986]LogModuleManager: Shutting down and abandoning module Media (51)
+[2021.01.10-20.19.00:018][986]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2021.01.10-20.19.00:019][986]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2021.01.10-20.19.00:019][986]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2021.01.10-20.19.00:020][986]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2021.01.10-20.19.00:020][986]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.01.10-20.19.00:020][986]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.01.10-20.19.00:022][986]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.01.10-20.19.00:027][986]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.01.10-20.19.00:034][986]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.01.10-20.19.00:034][986]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.01.10-20.19.00:034][986]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.01.10-20.19.00:034][986]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.01.10-20.19.00:041][986]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.01.10-20.19.00:042][986]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.01.10-20.19.00:042][986]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.01.10-20.19.00:042][986]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.01.10-20.19.00:044][986]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.01.10-20.19.00:044][986]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.01.10-20.19.00:044][986]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.01.10-20.19.00:044][986]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.01.10-20.19.00:044][986]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.01.10-20.19.00:044][986]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.01.10-20.19.00:044][986]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.01.10-20.19.00:048][986]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.01.10-20.19.00:057][986]LogD3D11RHI: Shutdown
+[2021.01.10-20.19.00:058][986]LogD3D11RHI: CleanupD3DDevice
+[2021.01.10-20.19.00:086][986]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.01.10-20.19.00:087][986]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.01.10-20.19.00:088][986]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.01.10-20.19.00:151][986]LogD3D11RHI: [IntelMetricsDiscovery] Stopped
+[2021.01.10-20.19.00:353][986]LogD3D11RHI: ~FD3D11DynamicRHI
+[2021.01.10-20.19.00:358][986]LogExit: Exiting.
+[2021.01.10-20.19.00:381][986]Log file closed, 01/10/21 21:19:00
